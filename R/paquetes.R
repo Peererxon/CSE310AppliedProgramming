@@ -1,6 +1,7 @@
 library("ggplot2")
 #se instalan bien sea desde la terminal o desde el IDE donde dice "packages"
-
+#instal.packages("PackageName") => para uso en la termimal de R
+#help("ggplot2) =>> abre una pagina de ayuda en el IDE sobre el paquete
 
 # Lista de paquetes útiles:
 #   Para manipular datos:
